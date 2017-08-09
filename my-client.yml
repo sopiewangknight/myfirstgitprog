@@ -1,2 +1,9 @@
-my-config:
-  appName: my-app
+languages:
+ - Ruby
+ - Perl
+ - Python 
+websites:
+ YAML: yaml.org 
+ Ruby: ruby-lang.org 
+ Python: python.org 
+ Perl: use.perl.org 
