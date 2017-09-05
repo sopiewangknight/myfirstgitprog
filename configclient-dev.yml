@@ -1,0 +1,4 @@
+com:
+  froad:
+    constant:
+      sayhello: hello for configclient
